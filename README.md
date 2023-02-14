@@ -12,5 +12,7 @@ We trained our model on Deep Fashion2 Images Dataset, that contains images of 10
 After, the training part, we inferenced the model on Garment Images, accessed from an Industrial Outlet. Then we shifted to the development phase of the coordinate extraction pipeline of the each plotted Keypoint.
 
 Next, we optimized the detected keypoints, and then went on with the distance measurement between two opposite keypoints.
+
+
 ![vis128B](https://user-images.githubusercontent.com/60814171/217742683-246691c5-4891-43e2-8938-ff2849e564c5.png)
 ![Figure_1](https://user-images.githubusercontent.com/60814171/217742861-5e4d98e5-74f2-4133-b9cf-7735e0f00197.png)
